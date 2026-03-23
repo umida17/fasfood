@@ -8,6 +8,7 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px 10px;
+
 }
 header{
     .container{
@@ -39,34 +40,35 @@ header{
         }
     }
 }
-main{
-    .section1{
-        .container{
-            .our{
-                text-align: center;
-                margin-bottom: 40px;
-            }
-            .our_all{
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-               
-                .all_a{
-                    display: flex;
-                    align-items: center;
-                    gap: 50px;
-                }
-            }
-        }
-    }
-    .section2{
-        .container{
-            .cards{
-                display: flex;
-                align-items: center;
-               flex-wrap: wrap;
-            }
-        }
-    }
 
-}
+// main{
+//     .section1{
+//         .container{
+//             .our{
+//                 text-align: center;
+//                 margin-bottom: 40px;
+//             }
+//             .our_all{
+//                 display: flex;
+//                 align-items: center;
+//                 justify-content: space-between;
+               
+//                 .all_a{
+//                     display: flex;
+//                     align-items: center;
+//                     gap: 50px;
+//                 }
+//             }
+//         }
+//     }
+//     .section2{
+//         .container{
+//             .cards{
+//                 display: flex;
+//                 align-items: center;
+//                flex-wrap: wrap;
+//             }
+//         }
+//     }
+
+// }
