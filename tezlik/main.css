@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 10px;
+}
+
+header .container .navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 15pz;
+}
+header .container .navbar ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+header .container .navbar ul a {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 160%;
+}
+header .container .navbar .navbar_get {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+main .section1 .container .our {
+  text-align: center;
+  margin-bottom: 40px;
+}
+main .section1 .container .our_all {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+main .section1 .container .our_all .all_a {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+main .section2 .container .cards {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=main.css.map */
