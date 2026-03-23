@@ -1043,7 +1043,7 @@ button{
     text-align: center;
      
  }
-
+ /* .Newsletter bolimiga keldik */
  
  .Newsletter{
     width: 802px;
@@ -1070,6 +1070,9 @@ button{
     font-size: 16px;
     color: white;
  }
+ 
+ /* input bolimiga keldik */
+
 input{
     width: 505px;
     border: 1px solid #F5EFDB80;
