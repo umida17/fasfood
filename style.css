@@ -9,9 +9,7 @@ header{
 .container{
     width: 1300px;
     margin: 0 auto;
-}  
-/* fudup ga stil beramiz */
-
+}
 .fud_up{
     display: flex;
     align-items: center;
@@ -105,8 +103,6 @@ button{
     height: 604px;
     margin-left: 50px;
 }
-/* 
-scroll ga stil berib ketamiz */
 .Scroll{
     display: flex;
     align-items: end;
@@ -132,7 +128,6 @@ scroll ga stil berib ketamiz */
     width: 1300px;
     margin: 0 auto;
  }
- /* popularga stil beramiz */
  .popular{
     display: flex;
     align-items: center;
