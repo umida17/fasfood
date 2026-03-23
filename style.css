@@ -338,7 +338,6 @@ button{
    color: white;
  }
 
-
  .menyular{
     display: flex;
     align-items:center;
@@ -714,7 +713,7 @@ button{
     gap: 35px;
     padding-bottom: 40px;
 }
-/* news bolimi */
+
 .news{
    border-radius: 10px;
     border-style: solid;
@@ -920,7 +919,7 @@ button{
     color: #242424;
     opacity: 50%;
 }
-/* more bolimi */
+
 .more3{
     width: 410px;
     height: 570px;
@@ -942,8 +941,6 @@ button{
      padding-left: 20px;
     color: #AAAAAA;
 }
-/* read bolimiga tozilmoqda */
-
 .read1{
     padding-top: 20px;
     display: flex;
@@ -1046,7 +1043,7 @@ button{
     text-align: center;
      
  }
- /* .Newsletter bolimiga keldik */
+ .Newsletter bolimiga keldik
  
  .Newsletter{
     width: 802px;
@@ -1073,9 +1070,6 @@ button{
     font-size: 16px;
     color: white;
  }
-
- /* input bolimiga keldik */
-
 input{
     width: 505px;
     border: 1px solid #F5EFDB80;
