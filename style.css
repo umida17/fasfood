@@ -9,7 +9,9 @@ header{
 .container{
     width: 1300px;
     margin: 0 auto;
-}
+}  
+/* fudup ga stil beramiz */
+
 .fud_up{
     display: flex;
     align-items: center;
