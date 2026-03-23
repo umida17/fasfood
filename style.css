@@ -103,6 +103,8 @@ button{
     height: 604px;
     margin-left: 50px;
 }
+/* 
+scroll ga stil berib ketamiz */
 .Scroll{
     display: flex;
     align-items: end;
