@@ -147,8 +147,6 @@ button{
     height: 40px;
     margin-bottom: 30px;
 }
-/* cardlarga ishlov beramiz */
-
 .cards{
     display: flex;
     align-items: center;
@@ -315,7 +313,6 @@ button{
     color: #BB2339;
     margin-bottom: 60px;
  }
- /* all ga stil beramiz */
  .all{
     display: flex;
     align-items: center;
@@ -340,7 +337,7 @@ button{
    background: #BB2339;
    color: white;
  }
-/* menyularga stil berish boshlandi */
+
 
  .menyular{
     display: flex;
